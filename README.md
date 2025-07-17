@@ -48,13 +48,13 @@ This project presents a two-stage feature detection framework that extracts and 
 
 The following diagram illustrates the architecture of the Fake Plate Car Detection System:
 
-![图1](images\\net.bmp "Algorithm framework")
+![图1](images/net.bmp "Algorithm framework")
 
 This framework outlines the two-stage detection process, including license plate recognition, vehicle attribute analysis, and seat belt inference.
 
 We only did the inference on the CPU and generally achieved the following performance (depending on the car), but on average it was less than 300ms.
 
-![图2](images\\net1.bmp "Execution details")
+![图2](images/net1.bmp "Execution details")
 
 
 ## 🚀 How to Run
